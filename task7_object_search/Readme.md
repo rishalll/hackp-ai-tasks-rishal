@@ -1,8 +1,8 @@
-# Task 7: Object Search System with YOLO and CLIP
+# Task 7: Object Search System
 
 An AI-powered object search system that combines **YOLO** (for object detection) and **CLIP** (for semantic understanding) to find similar objects across your image collection.
 
-This is a beginner-friendly project created as part of learning computer vision and object detection concepts.
+This is a beginner-friendly project created as part of my project for hackathon in Hackp2025 .
 
 ## Demo Video
 
